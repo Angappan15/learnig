@@ -1,0 +1,7 @@
+Programming lanuguages Known:
+Python
+Java
+JavaScript
+C#
+C
+C++
