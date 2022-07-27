@@ -1,2 +1,7 @@
 Git commands:
-Types of commands
+Git commands:
+1.Git init
+2.git add
+3.git commit
+4.git push
+5.git pull
